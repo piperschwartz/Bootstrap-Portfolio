@@ -1,0 +1,101 @@
+body{
+    background-image: url("assets/Images/circuit.jpg");
+}
+
+div {
+    background-color: white;
+
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    transform: rotate(180deg);
+}
+
+.navbar {
+    background-color: white;
+    margin-bottom: 40px;
+    padding-bottom: 18px;
+
+}
+
+/*.navbar-brand {
+    position: right;
+}*/
+
+.containerfooter {
+    padding: 30px 15px 0px;
+    text-align: center;
+    background-color: #666666;
+    
+    
+}
+
+.copy {
+    color: white;
+}
+
+
+.btn {
+    background-color: #4aaaa5;
+    border: none;
+
+}
+
+.portfolio-image {
+    height: 250px;
+    width: 350px;
+    transform: rotate(360deg);
+    padding: 15px;
+}
+
+.portfoliocontainer {
+    text-align: center;
+    position: relative;
+    
+
+}
+
+h1 {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    font-size: 32px;
+    padding: 20px;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.container {
+    padding: 50px;
+}
+
+
+.navbar-nav {
+/*padding-inline-start: 600px;*/
+text-align: center;
+float: right;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.phototext {
+    background-color: #4aaaa5;
+    position: absolute;        
+    width: 350px;
+    bottom: 20px;
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    
+    
+}
